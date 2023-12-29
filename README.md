@@ -7,7 +7,7 @@ Python 🐍: Where I dance with elegance and simplicity.
 HTML/CSS 🎨: Adding a splash of style to the web canvas.
 C/C++ 💪: Building the sturdy foundations of my programming fortress.
 JavaScript ✨: Sprinkling magic to make things interactive.
-🧠 Specializing in AI/ML:
+🧠 Specializing in AI/ML.
 
 Python is my wand for casting spells in the realm of AI and ML.
 From predicting the future to making machines see and understand, I'm on a mission!
