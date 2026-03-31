@@ -1,33 +1,56 @@
-### Hi there 👋
-I'm Anushrav Rathi, a student at VIT Bhopal University by day, and a tech nerd by night. 🌙
+# Hi, I'm Anushrav 👋
 
-💻 My Coding Symphony:
+💻 Full Stack Developer (MERN) | React Native  
+🎓 VIT Bhopal (CSE - AI)  
+🚀 Building real-world projects and learning by doing  
 
-Python 🐍: Where I dance with elegance and simplicity.
-HTML/CSS 🎨: Adding a splash of style to the web canvas.
-C/C++ 💪: Building the sturdy foundations of my programming fortress.
-JavaScript ✨: Sprinkling magic to make things interactive.
-🧠 Specializing in AI/ML.
+---
 
-Python is my wand for casting spells in the realm of AI and ML.
-From predicting the future to making machines see and understand, I'm on a mission!
-📚 Currently flipping through the pages of the AI adventure novel. Expecting dragons, unicorns, and maybe a sentient toaster. 🤖
+## 🛠 Tech Stack
 
-🚀 Join me on this quest to turn coffee into code, and dreams into software. If you're into Python, AI, or just good vibes, let's connect and craft some digital magic together!
+### 💻 Core
+- React, HTML, CSS, JavaScript  
+- Node.js, Express  
+- MongoDB  
+- React Native (Expo)  
 
-May your code compile and your bugs be elusive! 🦄✨
+### 🧠 Languages
+- JavaScript, TypeScript, Python, C++  
 
-<!--
-**anushravrathi/anushravrathi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ⚙️ Tools & Technologies
+- Git & GitHub  
+- Postman  
+- VS Code  
 
-Here are some ideas to get you started:
+### 🚀 Currently Learning
+- Docker  
+- Backend architecture & APIs  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 Projects
+
+### 📱 Pocket Garage (In Progress)
+Mobile app to track and manage diecast collections  
+- Add cars with details and images  
+- Local storage using AsyncStorage  
+- Structured for future backend integration  
+
+---
+
+### 🌐 Web Projects
+- Ecommerce Scraper (Python + BeautifulSoup)  
+- AI Article Generator (Flask + OpenAI)  
+- Signature Generator (HTML/CSS/JS)  
+
+---
+
+## 🎯 Currently Focused On
+- Mobile App Development (React Native)  
+- Full Stack Development (MERN)  
+- Building scalable applications  
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://linkedin.com/in/anushravrathi
